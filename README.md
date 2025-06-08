@@ -17,10 +17,6 @@ Before you start, make sure you have:
 >  **Supports up to 10 channels per session**  
 >  **One session only per bot** — simplicity at its best!
 
-## Features
-
-##  Features
-
 ###  Core Functionality
 
 ---
